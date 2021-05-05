@@ -1,0 +1,62 @@
+[
+  {
+    "first_name": "Herbert",
+    "last_name": "Müller",
+    "id": 1
+  },
+  {
+    "first_name": "Erna",
+    "last_name": "Sparbier",
+    "id": 2
+  },
+  {
+    "first_name": "Sandra",
+    "last_name": "Schweigemeier",
+    "id": 3
+  },
+  {
+    "first_name": "Helmut",
+    "last_name": "Schmidt",
+    "id": 4
+  },
+  {
+    "first_name": "Helmut",
+    "last_name": "Kohl",
+    "id": 5
+  },
+  {
+    "first_name": "Gerhard",
+    "last_name": "Schröder",
+    "id": 6
+  },
+  {
+    "first_name": "Willy",
+    "last_name": "Brand",
+    "id": 7
+  },
+  {
+    "first_name": "Kurt Georg",
+    "last_name": "Kiesinger",
+    "id": 8
+  },
+  {
+    "first_name": "Ludwig",
+    "last_name": "Erhard",
+    "id": 9
+  },
+  {
+    "first_name": "Konrad",
+    "last_name": "Adenauer",
+    "id": 10
+  },
+  {
+    "first_name": "Günther",
+    "last_name": "Maier",
+    "id": 11
+  },
+  {
+    "first_name": " ",
+    "last_name": "Internal",
+    "id": 10000
+  }
+]

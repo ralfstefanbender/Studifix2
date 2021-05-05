@@ -1,0 +1,14 @@
+[
+  {
+    "source_account": 1,
+    "target_account": 2,
+    "amount": 100,
+    "id": 1
+  },
+  {
+    "source_account": 1,
+    "target_account": 2,
+    "amount": 67.3,
+    "id": 2
+  }
+]
