@@ -150,3 +150,4 @@ frontend/package-lock.json
 /frontend/node_modules/
 /node_modules/
 /src/static
+/frontend/src/firebaseconfig.js
